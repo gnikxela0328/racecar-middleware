@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
-flask-restful = "*"
+Flask = "*"
+Flask-RESTful = "*"
 sparkfun-qwiic-scmd = "*"
-flask-cors = "*"
+Flask-Cors = "*"
+flask-socketio = "*"
 
 [dev-packages]
 
